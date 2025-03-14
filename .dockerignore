@@ -1,0 +1,4 @@
+# By default, ignore everything
+# *
+# Exclude pgdata that lives in root folder:
+# pgdata
